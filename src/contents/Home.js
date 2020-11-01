@@ -9,7 +9,7 @@ class Home extends Component {
         <h1>
           Janelle <mark>Tamayo</mark>
         </h1>
-        <ReactTypingEffect className="typingeffect" text={["MERN Developer", "A UI/UX Designer", "Startup enthusiast", "Lifelong Learner"]} speed={150} eraseDelay={800} />
+        <ReactTypingEffect className="typingeffect" text={["MERN Developer", "A UI/UX Enthusiast", "Startup enthusiast", "Lifelong Learner"]} speed={150} eraseDelay={800} />
         <div className="hr_line">
           <div className="hr_inner"></div>
         </div>

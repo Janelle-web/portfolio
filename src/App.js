@@ -6,6 +6,7 @@ import Navbar from "./components/Navbar"
 import Home from "./contents/Home"
 import About from "./contents/About"
 import Portfolio from "./contents/Portfolio"
+import Others from "./contents/Others"
 import Contact from "./contents/Contact"
 
 const GlobalStyle = createGlobalStyle`
@@ -80,6 +81,9 @@ function App() {
             </Route>
             <Route path="/about">
               <About />
+            </Route>
+            <Route path="/others">
+              <Others />
             </Route>
             <Route path="/portfolio">
               <Portfolio />

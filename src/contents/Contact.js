@@ -1,6 +1,7 @@
 import React, { Component } from "react"
 import Social from "../components/Social"
 import Map from "../img/map.png"
+import myPDF from "../assets/JanelleDulnuanTamayoCV.pdf"
 
 class Contact extends Component {
   render() {
@@ -16,7 +17,7 @@ class Contact extends Component {
           </div>
         </div>
         <div>
-          <a href="/">
+          <a href={myPDF} download="Janelle_CV.pdf">
             <div className="back3">Download Resume</div>
           </a>
           <a href="mailto:janelletamayo1024@gmail.com">

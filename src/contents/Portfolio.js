@@ -1,8 +1,8 @@
 import React, { Component } from "react"
-import project1 from "../img/project1.png"
-import project2 from "../img/project2.png"
-import project3 from "../img/project3.png"
-import project4 from "../img/project4.png"
+import project1 from "../img/project1.jpg"
+import project2 from "../img/project2.jpg"
+import project3 from "../img/project3.jpg"
+import project4 from "../img/project4.jpg"
 
 class Portfolio extends Component {
   render() {
@@ -14,28 +14,28 @@ class Portfolio extends Component {
         </div>
         <div class="port_out port1">
           <div class="port_in">
-            <a href="https://github.com/vikalp2502/AlgoSort-Sorting-Visualiser">
+            <a href="https://github.com/Janelle-web/client" target="_blank" rel="noopener noreferrer">
               <img src={project1} className="po1" alt="portfolio-projects"></img>
             </a>
           </div>
         </div>
         <div class="port_out port2">
           <div class="port_in">
-            <a href="https://github.com/vikalp2502/Shoes-Nike-Landing-page">
+            <a href="https://github.com/Janelle-web/moola" target="_blank" rel="noopener noreferrer">
               <img src={project2} className="po1" alt="portfolio-projects"></img>
             </a>
           </div>
         </div>
         <div class="port_out port3">
           <div class="port_in">
-            <a href="https://github.com/vikalp2502/To-do-list-v2">
+            <a href="https://github.com/Janelle-web/iwander" target="_blank" rel="noopener noreferrer">
               <img src={project3} className="po1" alt="portfolio-projects"></img>
             </a>
           </div>
         </div>
         <div class="port_out port4">
           <div class="port_in">
-            <a href="https://github.com/vikalp2502/Tribute-to-msd">
+            <a href="https://github.com/Janelle-web/pizzaplace" target="_blank" rel="noopener noreferrer">
               <img src={project4} className="po1" alt="portfolio-projects"></img>
             </a>
           </div>
