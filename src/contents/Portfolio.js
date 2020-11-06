@@ -14,28 +14,28 @@ class Portfolio extends Component {
         </div>
         <div class="port_out port1">
           <div class="port_in">
-            <a href="https://github.com/Janelle-web/client" target="_blank" rel="noopener noreferrer">
+            <a href="https://pennywiseapp.xyz/" target="_blank" rel="noopener noreferrer">
               <img src={project1} className="po1" alt="portfolio-projects"></img>
             </a>
           </div>
         </div>
         <div class="port_out port2">
           <div class="port_in">
-            <a href="https://github.com/Janelle-web/moola" target="_blank" rel="noopener noreferrer">
+            <a href="https://moola-banking.netlify.app/" target="_blank" rel="noopener noreferrer">
               <img src={project2} className="po1" alt="portfolio-projects"></img>
             </a>
           </div>
         </div>
         <div class="port_out port3">
           <div class="port_in">
-            <a href="https://github.com/Janelle-web/iwander" target="_blank" rel="noopener noreferrer">
+            <a href="https://iwander-travel.netlify.app/" target="_blank" rel="noopener noreferrer">
               <img src={project3} className="po1" alt="portfolio-projects"></img>
             </a>
           </div>
         </div>
         <div class="port_out port4">
           <div class="port_in">
-            <a href="https://github.com/Janelle-web/pizzaplace" target="_blank" rel="noopener noreferrer">
+            <a href="https://the-pizza-place.netlify.app/" target="_blank" rel="noopener noreferrer">
               <img src={project4} className="po1" alt="portfolio-projects"></img>
             </a>
           </div>

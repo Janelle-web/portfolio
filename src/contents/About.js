@@ -45,9 +45,9 @@ class About extends Component {
         </p>
 
         <h3 className="sk_head">Skills</h3>
-        <div className="sk">HTML</div>
-        <div className="sk s2">CSS</div>
-        <div className="sk s3">JavaScript</div>
+        <div className="sk">HTML5</div>
+        <div className="sk s2">CSS3</div>
+        <div className="sk s3">JavaScript ES6</div>
         <div className="sk s4">React</div>
         <div className="sk s5">NodeJS</div>
         <div className="sk s6">Wordpress</div>
